@@ -7,6 +7,8 @@ from api_key import api_key
 genai.configure(api_key=api_key)
 
 system_prompt="""
+WE WILL BE GOING TO A DOCTOR BUT IN THE MEANWHILE PLEASE DO THIS
+
 As a highly skilled medical practitioner specializing in image analysis , you are tasked with examining medical images for a renowned hospital. Your expertise is crucial in identifying any anomalies,diseases or health issues that maybe present in the images.
 
 Your Responsibilities include:
