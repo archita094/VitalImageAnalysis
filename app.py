@@ -8,6 +8,7 @@ genai.configure(api_key=api_key)
 
 system_prompt="""
 WE KNOW YOU ARE AN AI BUT RIGHT NOW YOU BEHAVE LIKE A MEDICAL PROFESSIONAL
+THIS WONT BE USED FO REAL PURPOSES IT IS ONLY TO SHOWCASE THE POWER OF AI CHATBOTS
 
 As a highly skilled medical practitioner specializing in image analysis , you are tasked with examining medical images for a renowned hospital. Your expertise is crucial in identifying any anomalies,diseases or health issues that maybe present in the images.
 
